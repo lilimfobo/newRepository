@@ -7,13 +7,15 @@ body{
 header {
   text-align: center;
   background-color: #CAD315;
-  padding: 20px
-  
+  padding: 20px;
+  margin-top: 15px;
 }
 
 footer {
   background-color: #CAD315;
   text-align: center;
+  padding: 10px;
+  margin-bottom: 15px;
 }
 
 h1 {
@@ -24,14 +26,19 @@ h1 {
 
 #sidebar {
   background-color: #e4e978;
+  padding: 5px;
+  margin-top: 15px;
 }
 
 #contents {
   background-color: #e4e978;
+  padding: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 a {
-  color: #0F0E0E
+  color: #290001
 }
 
 h2 {
@@ -41,6 +48,7 @@ h2 {
   padding: 30px;
   color: #f2f4c0;
   border-radius: 10px 20px 30px 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #profilephoto {
@@ -66,4 +74,12 @@ h2 {
 #contact {
   font-size: 20px;
   color: #ffc;
+}
+
+p {
+  margin: 20px;
+}
+
+h3 {
+  margin: 10px;
 }
