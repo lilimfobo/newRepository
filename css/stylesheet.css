@@ -19,10 +19,6 @@ h1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-h3 {
-  color: #D37815
-}
-
 #sidebar {
   background-color: #e4e978;
 }
@@ -32,5 +28,13 @@ h3 {
 }
 
 a {
-  color: #D37815
+  color: #0F0E0E
+}
+
+h2 {
+  font-size: 40px;
+  background-color: #D37815;
+  margin: 20px;
+  padding: 40px;
+  color: #ffc
 }
