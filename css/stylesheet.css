@@ -48,6 +48,10 @@ a {
   color: #290001
 }
 
+a:hover {
+color:#D37815; 
+}
+
 h2 {
   font-size: 34px;
   background-color: #CAD315;
